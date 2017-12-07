@@ -8,7 +8,7 @@ Just use the fining-tuning models for features extraction, then build a very sam
 
 ## Model Diagram
 
-![Model Diagram](./Model Flow Diagram.png)
+![Model Diagram](./Model%20Flow%20Diagram.png)
 
 ## Install
 
